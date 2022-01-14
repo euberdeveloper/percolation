@@ -12,3 +12,4 @@ The Java software was written with **NetBeans** and solves **percolation** with 
 ## The website
 
 The same algorithms was also translated in **javascript** to show a web demonstration of the percolation problem.
+It is also hosted on Vercel at [http://percolation.euber.dev](http://percolation.euber.dev).
